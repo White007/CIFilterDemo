@@ -15,6 +15,7 @@
 		E0DC5AC61CCDCB4500FFAAF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0DC5AC41CCDCB4500FFAAF9 /* LaunchScreen.storyboard */; };
 		E0DC5AD11CCDCB4500FFAAF9 /* CIFilterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E0DC5AD01CCDCB4500FFAAF9 /* CIFilterTests.m */; };
 		E0DC5ADC1CCDCB4500FFAAF9 /* CIFilterUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E0DC5ADB1CCDCB4500FFAAF9 /* CIFilterUITests.m */; };
+		E0DC5AEA1CCDCC4700FFAAF9 /* screen.png in Resources */ = {isa = PBXBuildFile; fileRef = E0DC5AE91CCDCC4700FFAAF9 /* screen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E0DC5AD71CCDCB4500FFAAF9 /* CIFilterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CIFilterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0DC5ADB1CCDCB4500FFAAF9 /* CIFilterUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CIFilterUITests.m; sourceTree = "<group>"; };
 		E0DC5ADD1CCDCB4500FFAAF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0DC5AE91CCDCC4700FFAAF9 /* screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				E0DC5ABA1CCDCB4500FFAAF9 /* AppDelegate.m */,
 				E0DC5ABC1CCDCB4500FFAAF9 /* ViewController.h */,
 				E0DC5ABD1CCDCB4500FFAAF9 /* ViewController.m */,
+				E0DC5AE91CCDCC4700FFAAF9 /* screen.png */,
 				E0DC5ABF1CCDCB4500FFAAF9 /* Main.storyboard */,
 				E0DC5AC21CCDCB4500FFAAF9 /* Assets.xcassets */,
 				E0DC5AC41CCDCB4500FFAAF9 /* LaunchScreen.storyboard */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0DC5AC61CCDCB4500FFAAF9 /* LaunchScreen.storyboard in Resources */,
+				E0DC5AEA1CCDCC4700FFAAF9 /* screen.png in Resources */,
 				E0DC5AC31CCDCB4500FFAAF9 /* Assets.xcassets in Resources */,
 				E0DC5AC11CCDCB4500FFAAF9 /* Main.storyboard in Resources */,
 			);
